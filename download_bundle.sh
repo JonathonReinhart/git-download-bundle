@@ -1,5 +1,5 @@
 #!/bin/bash
-# Jonathon Reinhart 2015
+# https://github.com/JonathonReinhart/git-download-bundle
 #
 # References:
 # http://stackoverflow.com/questions/1251713
